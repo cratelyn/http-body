@@ -12,6 +12,7 @@ pub mod combinators;
 mod either;
 mod empty;
 mod full;
+pub mod legacy;
 mod limited;
 mod stream;
 
