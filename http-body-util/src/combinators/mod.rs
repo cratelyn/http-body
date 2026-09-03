@@ -1,6 +1,7 @@
 //! Combinators for the `Body` trait.
 
 mod box_body;
+mod buffered;
 mod chain;
 mod collect;
 mod frame;
